@@ -10,4 +10,5 @@ Mudei pela sexta vez
 
 Mudei pela sétima vez
 
-Boa, meu garoto@
+Boa, meu garoto!
+Está aprendendo
