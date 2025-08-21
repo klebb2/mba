@@ -1,9 +1,7 @@
 # mba
 
 Aprendendo Git e GitHub
+Alterei pela terceira vez
 
-Alterei tudo
 
-Verifique
 
-Olhe de novo
