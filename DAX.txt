@@ -9,3 +9,5 @@ CALCULATE(
   [Faturamento],
   DATEADD(dCalendario[Data], -1, MONTH)
 )
+
+Título = IF([Faturamento] > 0, "OK", "NOK")
