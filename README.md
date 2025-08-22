@@ -3,4 +3,5 @@
 Aprendendo Git e GitHub
 
 Limpei tudo!
-estou na subpasta
+estava na subpasta
+agora estou na main
