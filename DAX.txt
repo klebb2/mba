@@ -16,3 +16,6 @@ Título 2 = IF([Faturamento] > 0, "YES", "NO")
 
 OK
 agora estou na subpasta
+agora voltei para main
+
+Média = AVERAGE(fFaturamento[Total])
