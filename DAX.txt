@@ -4,3 +4,8 @@ CALCULATE(
   [Faturamento],
   DATEADD(dCalendario[Data], -1, YEAR)
 )
+Faturamento M-1 = 
+CALCULATE(
+  [Faturamento],
+  DATEADD(dCalendario[Data], -1, MONTH)
+)
