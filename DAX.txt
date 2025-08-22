@@ -1,0 +1,1 @@
+Faturamento = CALCULATE( SUM(fVendas[Total]), ALL(dCalendario))
