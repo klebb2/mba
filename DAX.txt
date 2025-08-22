@@ -12,7 +12,5 @@ CALCULATE(
 
 Título = IF([Faturamento] > 0, "OK", "NOK")
 
-Título 2 = IF([Faturamento] > 0, "YES", "NO")
-
 OK
 agora estou na subpasta
