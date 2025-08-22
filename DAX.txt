@@ -1,1 +1,6 @@
 Faturamento = CALCULATE( SUM(fVendas[Total]), ALL(dCalendario))
+Faturamento Y-1 = 
+CALCULATE(
+  [Faturamento],
+  DATEADD(dCalendario[Data], -1, YEAR)
+)
