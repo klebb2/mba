@@ -17,3 +17,5 @@ agora estou na subpasta
 agora voltei para main
 
 Média = AVERAGE(fFaturamento[Total])
+
+Boa noite! Vou dormir
